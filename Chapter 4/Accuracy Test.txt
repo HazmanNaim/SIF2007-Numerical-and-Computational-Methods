@@ -1,0 +1,21 @@
+Newton Rhapson Method
+Your inital guess is = 1
+The tolerance of error is, tol = 0.001
+The number of iteration is, i = 2
+The approximated root of the function is, x = 1.584929528640978
+The error is, delx = 0.0008569089859269408
+
+Bisection Method
+Your range of interval is [1.0,2.0]
+The tolerance of error is, tol = 0.001
+The number of iteration is, i = 10
+The approximated root of the function is, x = 1.58544921875
+The error is, error = 0.00048828125
+
+Secant Methods
+Your range of interval is [1.0,2.0]
+The tolerance of error is, tol = 0.001
+The number of iteration is, i = 9
+The approximated root of the function is, x = 1.6669921875
+The error is, error = 0.0009765625
+
